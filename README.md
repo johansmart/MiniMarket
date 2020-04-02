@@ -1,5 +1,5 @@
 # MiniMarket
- software penjualan
+ software penjualan - https://johansoft.com/jual-software-penjualan/
 
 <div style="background-color: white; box-sizing: border-box; color: #616161; font-family: &quot;Open Sans&quot;, sans-serif; font-size: 13px;">
 Jual software penjualan – perkembangan dunia niaga menjadi sesuatu yang patutnya diperhatikan. Betapa tidak, kian hari perkembangannya kian maju, kian berkembang. Hal itu terlihat dari banyaknya instansi niaga dan toko yang menjamur di tiap daerah di Indonesia.</div>
